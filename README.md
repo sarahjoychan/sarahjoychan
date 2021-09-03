@@ -1,16 +1,16 @@
-### Hi there 👋
+### Sarah Joy Shaffer - ✨ Software Developer & Creative Extraordinaire ✨, Open For New Opportunities 🔭 
 
-<!--
-**sarahjoychan/sarahjoychan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer, experienced in all things Javascript.  
 
-Here are some ideas to get you started:
+## What I've Been Up To: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥕 Im creating a responsive recipe app that'll allow users to search for recipes based either Region or Ingredients.
+
+🌱 I created a simple but fun Anime chatbot that will give you options of anime to watch.
+
+💬 Ask me about My adventures of when I first began learning Angular!  
+
+😄 Pronouns: Driven, Creative, Imaginative, Dedicated, Adaptable 
+
+ 
+
