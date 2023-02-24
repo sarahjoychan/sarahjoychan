@@ -1,6 +1,6 @@
 ### Sarah Joy Shaffer - ✨ Software Developer & Creative Extraordinaire ✨, Open For New Opportunities 🔭 
 
-Full-Stack Software Engineer, experienced in all things Javascript.  
+Full-Stack Software Engineer, experienced in all things React & Typescript.  
 
 ## What I've Been Up To: 
 
