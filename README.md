@@ -4,7 +4,7 @@ Full-Stack Software Engineer, experienced in all things React & Typescript.
 
 ## What I've Been Up To: 
 
-🥕 Im creating a responsive recipe app that'll allow users to search for recipes based either Region or Ingredients.
+🥕 I've been working in the industry for the past few years having a blast and furthering my skills.
 
 🌱 I created a simple but fun Anime chatbot that will give you options of anime to watch.
 
